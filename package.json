@@ -1,0 +1,8 @@
+{
+  "name": "my-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "node scripts/sync.mjs"
+  }
+}
