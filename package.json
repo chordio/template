@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@chordio/local": "latest"
+    "chordio-local": "latest"
   },
   "scripts": {
     "sync": "node scripts/sync.mjs"
